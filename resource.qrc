@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>1x/1x/down-chevron.png</file>
+    <file>1x/1x/icons8-arrow-down-100.png</file>
+    <file>1x/1x/Asset 2.png</file>
+    <file>1x/1x/Asset 3.png</file>
+    <file>1x/1x/Asset 4.png</file>
+    <file>1x/1x/Asset 5.png</file>
+    <file>1x/1x/Asset 6.png</file>
+    <file>1x/1x/Asset 7.png</file>
+    <file>1x/1x/Asset 8.png</file>
+    <file>1x/1x/Asset 9.png</file>
+    <file>1x/1x/Asset 10.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>1x/Railway.otf</file>
+  </qresource>
+</RCC>

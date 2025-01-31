@@ -1,0 +1,5 @@
+/myenv
+/__pycache__
+windows/__pycache__
+analysis/__pycache__
+/build
